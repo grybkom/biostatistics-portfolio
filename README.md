@@ -1,2 +1,14 @@
 # biostatistics-portfolio
-A collection of biostatistics projects illustrating the use of statistical modeling, unsupervised learning, and data visualization to answer meaningful questions in biomedical research.
+Welcome to my biostatistics portfolio. This repository collects projects I have completed to strengthen my skills in data analysis, statistical modeling, and computational biology.
+
+## Current Projects
+- RNA-seq Pan-Cancer Clustering
+  - Unsupervised learning applied to RNA-seq gene expression profiles to identify cancer subtypes.
+
+
+## Technologies Used
+	•	Python
+	•	NumPy, pandas
+	•	scikit-learn
+	•	matplotlib / seaborn
+	•	Jupyter Notebooks
