@@ -13,9 +13,9 @@ Welcome to my biostatistics portfolio. This repository collects projects I have 
 	- https://github.com/grybkom/CNN_Cancer_Detection
    
 ## Technologies Used
-	•	Python
-	•	NumPy, pandas
-	•	scikit-learn
-	
-	•	matplotlib / seaborn
-	•	Jupyter Notebooks
+- Python
+- NumPy, pandas
+- scikit-learn
+- TensorFlow
+- matplotlib / seaborn
+- Jupyter Notebooks
