@@ -3,12 +3,17 @@ Welcome to my biostatistics portfolio. This repository collects projects I have 
 
 ## Current Projects
 - RNA-seq Pan-Cancer Clustering
-  - Unsupervised clustering applied to RNA-seq gene expression profiles to identify cancer subtypes.
+	- Unsupervised clustering applied to RNA-seq gene expression profiles to identify cancer subtypes.
+	- https://github.com/grybkom/pancan_clustering
 
-
+- CNN for Cancer Detection
+	- Binary image classification of metastatic cancer in tissue samples using a convolutional neural network
+	- https://github.com/grybkom/CNN_Cancer_Detection
+   
 ## Technologies Used
 	•	Python
 	•	NumPy, pandas
 	•	scikit-learn
+	
 	•	matplotlib / seaborn
 	•	Jupyter Notebooks
