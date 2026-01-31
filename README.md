@@ -1,5 +1,5 @@
 <h1 align="center">Mike's Biostatistics Portfolio</h1>
-Welcome to my biostatistics portfolio. This repository collects projects I have completed to strengthen my skills in data analysis, statistical modeling, and computational biology.
+Welcome to my biostatistics portfolio. This is a repository of projects I have completed and I am currently working on to strengthen my skills in data analysis, statistical modeling, and computational biology.
 
 ![AVG_mCh cell fill + GFP647_w2561_s7z copy](https://github.com/user-attachments/assets/30d9d76a-3d56-4ccb-8518-0badb12bf68f)
 
