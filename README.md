@@ -28,6 +28,10 @@ Welcome to my biostatistics portfolio. This is a repository of projects I have c
 - Binary image classification of metastatic cancer in tissue samples using a convolutional neural network.	
 - https://github.com/grybkom/CNN_Cancer_Detection
 
+## Alzheimer’s microRNA Analysis (Mouse Model)
+- Analysis of microRNA expression data from a mouse model of Alzheimer’s disease to identify differential expression patterns and visualize regulatory trends associated with neurodegeneration.
+- https://github.com/grybkom/app_influence_on_gene_expression_mouse_frontal_cortex
+
 ## Technologies Used
 - Python
 - NumPy, pandas
